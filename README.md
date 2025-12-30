@@ -17,8 +17,3 @@ print("stdout:", res.stdout)	# Output
 if res.stderr != "" : print("stderr:", res.stderr)	# Error
 
 ```
-
-Check out my [status page](https://status.vedgupta.in/) for updates on my projects and availability.
-
-
-<img height="70px" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,typescript,python,bash,flask,git,github,graphql,aws,gcp,cloudflare,docker,firebase,githubactions,go,mongodb,mysql,planetscale,prisma,tailwind,vscode" />
