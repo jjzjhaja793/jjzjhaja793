@@ -18,7 +18,6 @@ if res.stderr != "" : print("standard error:", res.stderr)	# Error
 
 ```
 
-Check out my [linkedin](https://linkedin.com/in/ankitkachhap) for updates.
 
 
 <img height="70px" src="https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,tauri,bun,javascript,typescript,python,rust,git,aws,gcp,mongodb,vscode" />
